@@ -229,7 +229,7 @@ lib.properties = {
 	color: "#000000",
 	opacity: 1.00,
 	manifest: [
-		{src:"images/頁面飛翔_atlas_1.png", id:"頁面飛翔_atlas_1"}
+		{src:"images/頁面飛翔_atlas_1.png?1641044232643", id:"頁面飛翔_atlas_1"}
 	],
 	preloads: []
 };
